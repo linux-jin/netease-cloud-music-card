@@ -21,4 +21,4 @@ jobs:
           USER_ID: 63691806
           USER_TOKEN: ${{ secrets.USER_TOKEN }}
           REPO: "netease-cloud-music-card"
-          AUTHOR: "e5u"
+          AUTHOR: "beer-on-ice"
